@@ -303,7 +303,7 @@
       "description": "Maintenance of the gearbox",
       "state": "PENDING",
       "intervention": {
-        "id": 1
+        "id": 3
       },
       "assistant": {
         "id": 1,
@@ -316,12 +316,12 @@
       "description": "Brake system overhaul",
       "state": "IN_PROGRESS",
       "intervention": {
-        "id": 2
+        "id": 4
       },
       "assistant": {
-        "id": 2,
-        "firstName": "Beatriz",
-        "lastName": "Martínez"
+        "id": 1,
+        "firstName": "Andrés",
+        "lastName": "García"
       }
     },
     {
@@ -332,9 +332,9 @@
         "id": 3
       },
       "assistant": {
-        "id": 3,
-        "firstName": "Carlos",
-        "lastName": "Sánchez"
+        "id": 1,
+        "firstName": "Andrés",
+        "lastName": "García"
       }
     },
     {
@@ -345,9 +345,9 @@
         "id": 4
       },
       "assistant": {
-        "id": 4,
-        "firstName": "Daniela",
-        "lastName": "Torres"
+        "id": 1,
+        "firstName": "Andrés",
+        "lastName": "García"
       }
     }
   ],
@@ -382,7 +382,7 @@
       "interventionType": "MAINTENANCE",
       "description": "Regular maintenance of the brake system.",
       "leader": {
-        "id": 2
+        "id": 1
       },
       "vehicle": {
         "id": 2,
